@@ -1,16 +1,16 @@
-# VIGA
+# HackaPride
 
-## HackaPride
+## VIGA
 
-> Beatriz Karoline |
+> Beatriz Karoline
 
-> Milena Katryell |
+> Milena Katryell
 
-> Beatriz Férre |
+> Beatriz Férre
 
-> Débora Fernandes |
+> Débora Fernandes
 
-> Amanda Albuquerque |
+> Amanda Albuquerque
 
 > Nathalia Miranda
 
